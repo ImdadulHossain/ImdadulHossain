@@ -1,16 +1,37 @@
-## Hi there 👋
+![I am a Web developer](https://media.licdn.com/dms/image/v2/D5616AQEIUdT8PpCrhQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737004507988?e=1742428800&v=beta&t=J30r50bCsYOikRuGUYuN9vceAhKKujWLjkDm0H0Xc1w)
 
-<!--
-**ImdadulHossain/ImdadulHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Imdadul
+#### I am a Web developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on web development projects, with plans to create a blog site using React.js, Django, and PostgreSQL. Another project of yours involves developing a trading app with a similar tech stack. I'm exploring ways to embed PDF files into blog posts in a Django-based project.
+
+I'm also interested in learning Python for both web development and algorithmic trading. Additionally, you're working on a Django project that doesn't yet have a user authentication system integrated.
+
+Skills: Python / REACT / JS / HTML / CSS / Django / POSTGRESQL
+
+- 🔭 I’m currently working on Django web Project 
+- 🌱 I’m currently learning Django 
+- 👯 I’m looking to collaborate on Github 
+- 🤔 I’m looking for help with Python for data analyst 
+- 💬 Ask me about Python 
+- 📫 How to reach me: titilhossain@gmail.com 
+- ⚡ Fun fact: if you had IDM in your computer, the pdf embed will not work 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ImdadulHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-imdadul-hossain-972054170//)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ImdadulHossain)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ImdadulHossain)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ImdadulHossain&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ImdadulHossain/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/ImdadulHossain)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ImdadulHossain)  
+
