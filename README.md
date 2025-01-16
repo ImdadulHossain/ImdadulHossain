@@ -4,9 +4,9 @@
 #### I am a Web developer
 
 
-I'm currently focused on web development projects, with plans to create a blog site using React.js, Django, and PostgreSQL. Another project of yours involves developing a trading app with a similar tech stack. I'm exploring ways to embed PDF files into blog posts in a Django-based project.
+I'm currently focused on web development projects, with plans to create a blog site using React.js, Django, and PostgreSQL. Another project of mine involves developing a trading app with a similar tech stack. I'm exploring ways to embed PDF files into blog posts in a Django-based project.
 
-I'm also interested in learning Python for both web development and algorithmic trading. Additionally, you're working on a Django project that doesn't yet have a user authentication system integrated.
+I'm also interested in learning Python for both web development and algorithmic trading. Additionally, I'm working on a Django project that doesn't yet have a user authentication system integrated.
 
 Skills: Python / REACT / JS / HTML / CSS / Django / POSTGRESQL
 
@@ -23,15 +23,4 @@ Skills: Python / REACT / JS / HTML / CSS / Django / POSTGRESQL
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ImdadulHossain)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ImdadulHossain)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ImdadulHossain&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ImdadulHossain/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ImdadulHossain)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ImdadulHossain)  
 
