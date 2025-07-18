@@ -1,4 +1,4 @@
-![I am a Web developer](https://media.licdn.com/dms/image/v2/D5616AQEIUdT8PpCrhQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737004507988?e=1742428800&v=beta&t=J30r50bCsYOikRuGUYuN9vceAhKKujWLjkDm0H0Xc1w)
+![I am a Web developer](https://res.cloudinary.com/dbtzfek0q/image/upload/v1752882791/ChatGPT_Image_Jul_19_2025_05_52_45_AM_fny3fw.png)
 
 ### Hi there 👋, I'm Imdadul
 #### I am a Web developer
