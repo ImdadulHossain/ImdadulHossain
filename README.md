@@ -8,6 +8,8 @@ I'm currently focused on web development projects, with plans to create a blog s
 
 I'm also interested in learning Python for both web development and algorithmic trading. Additionally, I'm working on a Django project that doesn't yet have a user authentication system integrated.
 
+I'm currently exploring new Features in AI development.
+
 Skills: Python / REACT / JS / HTML / CSS / Django / POSTGRESQL
 
 - 🔭 I’m currently working on Django web Project 
